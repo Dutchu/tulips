@@ -1,0 +1,28 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.10.2020 21:32:36
+
+newmtl leafMaterial
+    Ns 32
+    d 1
+    illum 2
+    Ka 0.3 0.6 0.3
+    Kd 0.3 0.6 0.3
+    Ks 0.2 0.2 0.2
+    map_Kd leaflet1.jpg
+newmtl petalMaterial
+    Ns 32
+    d 1
+    illum 2
+    Ka 0.3451 0.5647 0.8824
+    Kd 0.3451 0.5647 0.8824
+    Ks 0.3500 0.3500 0.3500
+    map_Kd petal_steam1.jpg
+
+newmtl stemMaterial
+    Ns 32
+    d 1
+    illum 2
+    Ka 0.4 0.4 0.4
+    Kd 0.4 0.4 0.4
+    Ks 0.1 0.1 0.1
+    map_Kd petal_stem3.jpg
